@@ -14,6 +14,21 @@ a = artist
 
 artist.color = 'green'
 artist.right(90)
-# ???
+a.fd()
+a.rt()
+a.fd()
+a.rt()
+a.fd()
+a.rt()
+a.fd()
+a.lt()
+a.fd(150)
+a.lt()
+a.fd()
+a.lt()
+a.fd()
+a.lt()
+a.fd()
+
 
 artist.check()
